@@ -18,7 +18,7 @@ LLM-powered multi-agent simulation framework for resource management system
 1. **Clone the repository:**
    ```sh
    git clone git@github.com:swarm-workflows/swarm-agents-llms.git
-   cd swarm-agents
+   cd swarm-agents-llms
    ```
 2. **Install dependencies:**
    ```sh
